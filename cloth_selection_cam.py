@@ -23,6 +23,7 @@ from torchvision.models import resnet18
 from torch.utils.data import Dataset
 
 #Grad-Cam用のライブラリをインポート
+import pytorch_grad_cam
 from pytorch_grad_cam.utils.model_targets import ClassifierOutputTarget
 from pytorch_grad_cam.utils.image import show_cam_on_image
 from pytorch_grad_cam import GradCAM
