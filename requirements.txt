@@ -7,3 +7,4 @@ pytorch_lightning
 torchmetrics
 torchsummary
 Pillow
+pytorch_grad_cam
