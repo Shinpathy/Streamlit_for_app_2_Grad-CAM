@@ -8,3 +8,4 @@ torchmetrics
 torchsummary
 Pillow
 pytorch-gradcam
+opencv-python
