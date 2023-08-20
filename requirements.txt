@@ -9,4 +9,4 @@ torchsummary
 Pillow
 pytorch-gradcam
 opencv-python
-git+https://github.com/jacobgil/pytorch-grad-cam.git
+git+https://github.com/jacobgil/pytorch-grad-cam.git@pytorch_grad_cam
